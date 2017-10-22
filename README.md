@@ -3,4 +3,5 @@ a simple reactive form asking for name and description field; validation is set;
 
 ## npm install ng serve
 
-<img src="ng-pic-form.JPG">
+
+<img src="ng-form-pic.JPG" alt="product inventory">
